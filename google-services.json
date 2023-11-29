@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598948973230",
+    "project_id": "easytransit-982f1",
+    "storage_bucket": "easytransit-982f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598948973230:android:0cab22bfdc11f96ceffb3f",
+        "android_client_info": {
+          "package_name": "com.example.easytransit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVWPuOrk5Bq_QRRRzIYjgtBTS6fjhY5Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
